@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1, h2, a, li{
+    color: rgb(66, 69, 71);
+}
+.text1{
+    position: fixed;
+    left: 44%;
+    top: 20%;
+    font-size: 64;
+}
+.text2{
+    position: fixed;
+    left: 46.5%;
+    top: 30%;
+    font-size: 64;
+}
